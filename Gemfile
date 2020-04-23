@@ -4,6 +4,7 @@ gem 'rails', '5.0.7.1'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'sass-rails'
+gem 'sassc', '~> 2.1.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier'
 gem 'bootsnap'
